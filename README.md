@@ -2,6 +2,25 @@
 
 Software engineering paper writing skill for ICSE, ESEC/FSE, ASE, ISSTA, MSR, TSE, TOSEM, and EMSE.
 
+## What this skill does
+
+This skill helps turn a research repo and experiment outputs into a submission-ready SE paper by guiding:
+
+- Venue-aware paper planning for conferences vs journals.
+- Claim-to-evidence structuring (research questions, metrics, baselines, and threats to validity).
+- Citation safety with DOI-first BibTeX retrieval and explicit placeholders when unresolved.
+- Submission and camera-ready quality checks with practical checklists.
+
+In short: it is a workflow + tool bundle for writing rigorous SE papers without relying on stale venue rules or fabricated citations.
+
+## Typical prompts this skill is built for
+
+- "Draft an ICSE paper from this repository."
+- "Convert this FSE paper into a TSE journal submission plan."
+- "Help me structure threats to validity and statistical reporting."
+- "Fetch verified BibTeX for these references."
+- "Run a final pre-submission checklist for ASE."
+
 ## What this repo contains
 
 - `SKILL.md`: Core skill instructions and workflow.
