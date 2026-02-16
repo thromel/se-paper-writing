@@ -21,9 +21,16 @@ In short: it is a workflow + tool bundle for writing rigorous SE papers without 
 - "Fetch verified BibTeX for these references."
 - "Run a final pre-submission checklist for ASE."
 
+## Claude agent skills docs
+
+For protocol-level details on how agents should trigger and apply this skill, see:
+
+- [`docs/claude-agent-skills.md`](docs/claude-agent-skills.md)
+
 ## What this repo contains
 
 - `SKILL.md`: Core skill instructions and workflow.
+- `docs/claude-agent-skills.md`: Agent-oriented protocol and maintenance contract.
 - `references/`: Venue routing, evaluation playbook, checklists, reviewer guidance, citation workflow, and official source links.
 - `scripts/fetch_templates.py`: Fetch template resources by venue from `references/template-sources.json`.
 - `scripts/doi_to_bibtex.py`: Fetch verified BibTeX from a DOI.
