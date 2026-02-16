@@ -1,0 +1,58 @@
+[
+  {
+    "venue": "icse",
+    "publisher": "ACM",
+    "landing_url": "https://conf.researchr.org/series/icse",
+    "template_url": "https://github.com/borisveytsman/acmart/archive/refs/heads/primary.zip",
+    "notes": "Use ACM proceedings template family and verify the current ICSE call/track instructions before submission."
+  },
+  {
+    "venue": "esec-fse",
+    "publisher": "ACM",
+    "landing_url": "https://conf.researchr.org/series/fse",
+    "template_url": "https://github.com/borisveytsman/acmart/archive/refs/heads/primary.zip",
+    "notes": "Use ACM proceedings template family and verify current ESEC/FSE author instructions."
+  },
+  {
+    "venue": "ase",
+    "publisher": "IEEE",
+    "landing_url": "https://conf.researchr.org/series/ase",
+    "template_url": "https://mirrors.ctan.org/macros/latex/contrib/IEEEtran.zip",
+    "notes": "Use IEEE template family and verify current ASE submission track requirements."
+  },
+  {
+    "venue": "issta",
+    "publisher": "ACM",
+    "landing_url": "https://conf.researchr.org/series/issta",
+    "template_url": "https://github.com/borisveytsman/acmart/archive/refs/heads/primary.zip",
+    "notes": "Use ACM proceedings template family and verify current ISSTA author instructions."
+  },
+  {
+    "venue": "msr",
+    "publisher": "ACM/IEEE",
+    "landing_url": "https://conf.researchr.org/series/msr",
+    "template_url": "https://github.com/borisveytsman/acmart/archive/refs/heads/primary.zip",
+    "notes": "MSR tracks can vary by year; verify whether ACM or IEEE format applies for the selected track."
+  },
+  {
+    "venue": "tse",
+    "publisher": "IEEE",
+    "landing_url": "https://www.computer.org/csdl/journal/ts",
+    "template_url": "https://mirrors.ctan.org/macros/latex/contrib/IEEEtran.zip",
+    "notes": "Use IEEE journal template family and verify current TSE author center guidance."
+  },
+  {
+    "venue": "tosem",
+    "publisher": "ACM",
+    "landing_url": "https://dl.acm.org/journal/tosem",
+    "template_url": "https://github.com/borisveytsman/acmart/archive/refs/heads/primary.zip",
+    "notes": "Use ACM journal template family and verify current TOSEM author instructions."
+  },
+  {
+    "venue": "emse",
+    "publisher": "Springer",
+    "landing_url": "https://link.springer.com/journal/10664/submission-guidelines",
+    "template_url": "https://www.springernature.com/gp/authors/campaigns/latex-author-support",
+    "notes": "Use Springer guidance to obtain current EMSE template package and submission requirements."
+  }
+]
